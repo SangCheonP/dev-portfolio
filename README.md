@@ -7,7 +7,7 @@
 
 ## 📄 Portfolio
 
-- [Portfolio.pdf](./Portfolio.pdf)
+- [Portfolio.pdf](./dev-portfolio.pdf)
 
 ## 🛠 Tech Stack
 
