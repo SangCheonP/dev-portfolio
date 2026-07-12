@@ -22,13 +22,13 @@
 
 ## 📌 Projects
 
-### SSPS
+### SSPS (Samsung Semiconductor Production System)
 - Dashboard 및 기준정보 관리
 - Oracle SQL / Procedure 개발
 - SQL 튜닝(처리 시간 약 55% 단축)
 - 운영 데이터 중복 적재 이슈 해결
 
-### MCS MES
+### MES 프로젝트
 - WMS 기능 개발
 - Spring Boot API 개발
 - React 화면 개발
